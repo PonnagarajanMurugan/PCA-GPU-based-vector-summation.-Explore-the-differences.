@@ -29,9 +29,9 @@ Finally Free device global memory,host memory and reset device.
 ### Step 8 :
 Save and Run the Program.
 ## Program :
-Developed By : **Virgil Jovita A**
+Developed By : **PON NAGARAJAN M**
 </br>
-Register No. : **212221240062**
+Register No. : **212222040115**
 ### 1. Block.x=1023
 ```c
 #include "../common/common.h"
